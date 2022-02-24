@@ -10,3 +10,6 @@
 [submodule "cs2030s-lab4"]
 	path = cs2030s-lab4
 	url = https://github.com/EvitanRelta/cs2030s-lab4
+[submodule "pe-vim-settings"]
+	path = pe-terminal-settings
+	url = https://github.com/EvitanRelta/nus-pe-terminal-settings
