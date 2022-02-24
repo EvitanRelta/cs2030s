@@ -7,3 +7,6 @@
 [submodule "cs2030s-lab3"]
 	path = cs2030s-lab3
 	url = https://github.com/EvitanRelta/cs2030s-lab3
+[submodule "cs2030s-lab4"]
+	path = cs2030s-lab4
+	url = https://github.com/EvitanRelta/cs2030s-lab4
