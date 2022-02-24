@@ -1,14 +1,14 @@
 [submodule "cs2030s-lab1"]
-	path = cs2030s-lab1
+	path = lab1
 	url = https://github.com/EvitanRelta/cs2030s-lab1
 [submodule "cs2030s-lab2"]
-	path = cs2030s-lab2
+	path = lab2
 	url = https://github.com/EvitanRelta/cs2030s-lab2
 [submodule "cs2030s-lab3"]
-	path = cs2030s-lab3
+	path = lab3
 	url = https://github.com/EvitanRelta/cs2030s-lab3
 [submodule "cs2030s-lab4"]
-	path = cs2030s-lab4
+	path = lab4
 	url = https://github.com/EvitanRelta/cs2030s-lab4
 [submodule "pe-vim-settings"]
 	path = pe-terminal-settings
