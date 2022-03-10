@@ -13,3 +13,6 @@
 [submodule "pe-vim-settings"]
 	path = pe-terminal-settings
 	url = https://github.com/EvitanRelta/nus-pe-terminal-settings
+[submodule "lab5"]
+	path = lab5
+	url = https://github.com/EvitanRelta/cs2030s-lab5
