@@ -19,3 +19,6 @@
 [submodule "lab6"]
 	path = lab6
 	url = https://github.com/EvitanRelta/cs2030s-lab6
+[submodule "lab7"]
+	path = lab7
+	url = https://github.com/EvitanRelta/cs2030s-lab7
